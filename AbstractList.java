@@ -1,0 +1,2 @@
+abstract class AbstractList<T> {
+}
